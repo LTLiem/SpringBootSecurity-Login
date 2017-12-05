@@ -1,4 +1,4 @@
-# Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP
+# Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, JSP, MYSQL
 
 ## Guide
 https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
@@ -13,4 +13,5 @@ https://hellokoding.com/registration-and-login-example-with-spring-security-spri
 - Spring Data JPA
 - Maven
 - JSP
+- MYSQL
 
